@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "company": "Acme AI",
+    "title": "Python Backend Engineer",
+    "skills": ["python", "fastapi", "postgresql", "docker"]
+  },
+  {
+    "id": 2,
+    "company": "Nova Labs",
+    "title": "Machine Learning Engineer",
+    "skills": ["python", "pytorch", "machine learning", "sql"]
+  },
+  {
+    "id": 3,
+    "company": "Acme AI",
+    "title": "Rust Systems Engineer",
+    "skills": ["rust", "systems programming", "linux"]
+  },
+  {
+    "id": 4,
+    "company": "DataWorks",
+    "title": "Data Engineer",
+    "skills": ["python", "sql", "spark", "aws"]
+  },
+  {
+    "id": 5,
+    "company": "Nova Labs",
+    "title": "Backend Engineer",
+    "skills": ["python", "rust", "api", "docker"]
+  },
+  {
+    "id": 6,
+    "company": "CloudCore",
+    "title": "Platform Engineer",
+    "skills": ["python", "kubernetes", "docker", "aws"]
+  },
+  {
+    "id": 7,
+    "company": "DataWorks",
+    "title": "ML Platform Engineer",
+    "skills": ["python", "pytorch", "kubernetes", "mlops"]
+  },
+  {
+    "id": 8,
+    "company": "CloudCore",
+    "title": "Security Engineer",
+    "skills": ["oauth", "python", "security", "api"]
+  }
+]
