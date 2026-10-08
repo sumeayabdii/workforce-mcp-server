@@ -1,4 +1,4 @@
-# Revelio-Style Workforce MCP Server
+#  Workforce MCP Server
 
 A small Model Context Protocol (MCP) server built in Python using the official MCP Python SDK.
 
