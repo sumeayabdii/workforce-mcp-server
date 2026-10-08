@@ -161,4 +161,5 @@ The included dataset is fictional and exists only to demonstrate the MCP impleme
 * Structured logging and monitoring
 * Automated tests
 * Rust implementation using the same dataset
-* [![M8ven Score](https://m8ven.ai/badge/mcp/sumeayabdii/workforce-mcp-server)](https://m8ven.ai/mcp/sumeayabdii/workforce-mcp-server?s=readme)
+* [![M8ven Score](https://m8ven.ai)](https://m8ven.ai)
+
